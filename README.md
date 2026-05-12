@@ -8,7 +8,7 @@ The project was built using pure HTML, CSS, and JavaScript while following respo
 
 ## 🚀 Live Demo
 
-[Explore Note Space 🔗](https://banerjeeankan2003.github.io/NoteSpace/)
+[Explore Note Space](https://banerjeeankan2003.github.io/NoteSpace/) 🔗
 
 ---
 
